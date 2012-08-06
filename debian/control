@@ -7,6 +7,7 @@ Build-Depends: debhelper (>= 8)
 Homepage: http://www.jpfleury.net/en/software/clearlooks-phenix.php
 Vcs-Hg: http://anonscm.debian.org/hg/collab-maint/clearlooks-phenix-theme/
 Vcs-Browser: http://anonscm.debian.org/hg/collab-maint/clearlooks-phenix-theme/browse
+Uploaders: Luis Garcia Gisbert <luisgg@gmail.com>
 
 Package: clearlooks-phenix-theme
 Architecture: all

@@ -1,3 +1,9 @@
+clearlooks-phenix-theme (2.0.5-1ubuntu1~aurex1) precise; urgency=low
+
+  * Rebuild for aurex(precise)
+
+ -- Luis Garcia Gisbert <luisgg@gmail.com>  Mon, 06 Aug 2012 11:01:46 +0200
+
 clearlooks-phenix-theme (2.0.5-1) unstable; urgency=low
 
   * Initial packaging (Closes: #666242).
